@@ -1,0 +1,17 @@
+﻿<Application x:Class="CSchat.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CSchat"
+             StartupUri="MVVM/View/MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+
+                <ResourceDictionary Source="./MVVM/Themes/OnlineCard.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="./MVVM/Themes/MessageCard.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="./MVVM/Themes/MessageBox.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="./MVVM/Themes/LogCard.xaml"></ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

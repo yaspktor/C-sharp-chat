@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSchat_service", "CSchat_service.csproj", "{8E5DEE71-8E4F-4A52-B72B-3B9D0E1F44F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkLib", "NetworkLib\NetworkLib.csproj", "{CDDA2E5E-E39D-41D0-86E4-588665407109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{9161948C-9118-432C-B18D-AED21BB08E2F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalator_czatu", "Instalator_czatu\Instalator_czatu.vdproj", "{C2BE4D6F-6EA5-45A7-AED7-C8EA538798F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testy", "Testy\Testy.csproj", "{5820FF27-480A-48E2-A0D0-4319A623AC68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E5DEE71-8E4F-4A52-B72B-3B9D0E1F44F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5DEE71-8E4F-4A52-B72B-3B9D0E1F44F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5DEE71-8E4F-4A52-B72B-3B9D0E1F44F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5DEE71-8E4F-4A52-B72B-3B9D0E1F44F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDDA2E5E-E39D-41D0-86E4-588665407109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDA2E5E-E39D-41D0-86E4-588665407109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDA2E5E-E39D-41D0-86E4-588665407109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDA2E5E-E39D-41D0-86E4-588665407109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9161948C-9118-432C-B18D-AED21BB08E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9161948C-9118-432C-B18D-AED21BB08E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9161948C-9118-432C-B18D-AED21BB08E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9161948C-9118-432C-B18D-AED21BB08E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BE4D6F-6EA5-45A7-AED7-C8EA538798F9}.Debug|Any CPU.ActiveCfg = Debug
+		{C2BE4D6F-6EA5-45A7-AED7-C8EA538798F9}.Release|Any CPU.ActiveCfg = Release
+		{5820FF27-480A-48E2-A0D0-4319A623AC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5820FF27-480A-48E2-A0D0-4319A623AC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5820FF27-480A-48E2-A0D0-4319A623AC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5820FF27-480A-48E2-A0D0-4319A623AC68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {753C7B79-18A2-4C8E-B02C-D78D9D36A571}
+	EndGlobalSection
+EndGlobal

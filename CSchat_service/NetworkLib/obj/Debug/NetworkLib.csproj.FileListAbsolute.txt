@@ -1,0 +1,6 @@
+C:\Users\Piotr\Desktop\Studia\PRD\CSchat_service\NetworkLib\bin\Debug\NetworkLib.dll
+C:\Users\Piotr\Desktop\Studia\PRD\CSchat_service\NetworkLib\bin\Debug\NetworkLib.pdb
+C:\Users\Piotr\Desktop\Studia\PRD\CSchat_service\NetworkLib\obj\Debug\NetworkLib.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PRD\CSchat_service\NetworkLib\obj\Debug\NetworkLib.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PRD\CSchat_service\NetworkLib\obj\Debug\NetworkLib.dll
+C:\Users\Piotr\Desktop\Studia\PRD\CSchat_service\NetworkLib\obj\Debug\NetworkLib.pdb
