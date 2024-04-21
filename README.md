@@ -9,5 +9,6 @@ Projekt porusza takie zagadnienia jak:
 * programowanie obiektowe
 * komunikacja sieciowa klient-serwer
 * tworzenie aplikacji desktopowej
-* tworzenie usługi systemu Windows
+* tworzenie i zarządzanie usługami systemu Windows
+* tworzenie instalatora dla aplikacji
 * testy jednostkowe
